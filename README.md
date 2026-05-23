@@ -2,8 +2,6 @@
 
 Modeling and forecasting the evolution of three-point attempts in NBA games (1980–2023) using time series methods in R. Academic project in Applied Mathematics — ENSTA Paris / IP Paris (2026).
 
-Course: *Séries temporelles* — Applied Mathematics
-
 **Authors:** Leto Van Ruymbeke · Laura Sanchez
 
 ---
@@ -90,6 +88,6 @@ install.packages(c(
 
 ## Academic Context
 
-Course: *Time Series Analysis* — Applied Mathematics  
+Course: *Séries temporelles* — Applied Mathematics 
 Program: Master's in Applied Mathematics — ENSTA Paris / Institut Polytechnique de Paris  
 Year: 2025–2026
